@@ -1,0 +1,4 @@
+A Programação Orientada a Objetos (POO) oferece várias vantagens em comparação com paradigmas de programação procedural. Vamos explorar algumas delas:
+Reutilização de Código: podemos criar classes e objetos que encapsulam funcionalidades específicas. Essas classes podem ser reutilizadas em diferentes partes do código, economizando tempo e esforço.
+Facilidade de Manutenção: A POO promove a organização do código em unidades menores e mais compreensíveis. Isso facilita a manutenção e correção de erros, pois cada classe ou objeto é responsável por uma tarefa específica.
+Separação de Responsabilidades: Com a POO, podemos distribuir as responsabilidades de maneira clara entre diferentes objetos. Cada classe representa uma entidade ou conceito específico, o que torna o código mais modular e legível.
