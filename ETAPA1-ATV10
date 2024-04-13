@@ -1,0 +1,15 @@
+Public:
+
+Os membros (atributos e métodos) marcados como públicos são acessíveis de qualquer lugar, dentro ou fora da classe em que são definidos.
+Eles podem ser acessados por qualquer outra classe ou objeto.
+O acesso público permite que os membros sejam utilizados livremente por outras partes do programa.
+Private:
+
+Os membros marcados como privados são acessíveis apenas dentro da classe em que são definidos.
+Eles não podem ser acessados de fora da classe, nem mesmo por subclasses.
+O acesso privado é usado para proteger os detalhes internos da implementação da classe e encapsular o comportamento.
+Protected:
+
+Os membros marcados como protegidos são acessíveis dentro da classe em que são definidos e por subclasses (classes derivadas) dessa classe, seja no mesmo pacote ou em pacotes diferentes.
+Eles não são acessíveis fora da classe nem por outras classes que não sejam subclasses.
+O acesso protegido é usado para permitir que subclasses acessem e substituam comportamentos da classe pai, mantendo-os inacessíveis a outras partes do programa.
