@@ -1,0 +1,13 @@
+O encapsulamento é um conceito central na programação orientada a objetos, onde os detalhes internos de um objeto são ocultados e somente uma interface pública é exposta para interações externas. Essa técnica promove a segurança, a modularidade e a manutenção do código.
+
+Nas linguagens orientadas a objetos, o encapsulamento é alcançado através do uso de modificadores de acesso, que controlam a visibilidade dos membros de um objeto. Esses membros podem ser atributos (ou propriedades) e métodos (ou funções).
+
+Os principais modificadores de acesso incluem:
+
+Público: Os membros públicos podem ser acessados de fora da classe onde são definidos, permitindo interações diretas com esses membros.
+
+Privado: Os membros privados só podem ser acessados dentro da própria classe onde são definidos, ocultando-os do mundo exterior.
+
+Protegido: Os membros protegidos são semelhantes aos privados, mas podem ser acessados pelas subclasses da classe onde são definidos.
+
+Por meio do encapsulamento, os objetos podem esconder os detalhes de sua implementação interna e fornecer uma interface consistente para interações externas. Isso reduz a dependência entre os componentes do sistema, facilitando a manutenção e a evolução do software.
