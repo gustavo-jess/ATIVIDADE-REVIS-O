@@ -1,0 +1,9 @@
+O método main em Java é o ponto de entrada principal para a execução de um programa Java. Seu objetivo principal é iniciar a execução do programa quando ele é executado.
+
+Em resumo, o objetivo do método main em Java é:
+
+Ponto de Entrada: O método main serve como o ponto de entrada para o programa Java. Quando o programa é executado, o sistema Java começa a execução a partir deste método.
+
+Iniciar a Execução do Programa: Todas as instruções dentro do método main são executadas sequencialmente, iniciando a execução do programa. Qualquer lógica necessária para inicializar variáveis, configurar o ambiente de execução ou interagir com o usuário pode ser colocada dentro do método main.
+
+Receber Argumentos de Linha de Comando: O método main pode receber argumentos de linha de comando como parâmetros. Isso permite que os programas Java recebam informações externas no momento da execução, como opções de configuração ou dados de entrada.
