@@ -1,0 +1,18 @@
+a passagem de parâmetros para métodos de uma classe pode ocorrer de várias maneiras, dependendo da linguagem de programação utilizada e da semântica da linguagem. As principais formas de passagem de parâmetros são:
+
+Por Valor (ou Passagem por Valor):
+
+Neste método, uma cópia do valor do parâmetro é passada para o método.
+Qualquer modificação feita dentro do método não afeta o valor original do argumento.
+É comum em linguagens como C e C++, onde os tipos primitivos são passados por valor.
+Por Referência (ou Passagem por Referência):
+
+Neste método, o endereço de memória do parâmetro é passado para o método.
+Qualquer modificação feita dentro do método afeta diretamente o valor original do argumento.
+É comum em linguagens como C++ (com referências), Python e JavaScript.
+Por Referência a Objeto (ou Passagem de Objeto por Referência):
+
+Neste método, uma referência ao objeto é passada para o método.
+Qualquer modificação feita dentro do método afeta o objeto original passado como argumento.
+É comum em linguagens orientadas a objetos como Java e C#.
+Em linguagens orientadas a objetos como Java, a passagem de parâmetros para métodos geralmente ocorre por referência a objeto. Isso significa que, quando um objeto é passado como argumento para um método, na verdade, uma referência ao objeto é passada, permitindo que o método acesse e modifique o objeto original.
