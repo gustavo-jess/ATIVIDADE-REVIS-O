@@ -1,0 +1,13 @@
+Métodos de Instância:
+
+Estes métodos são vinculados a instâncias específicas da classe.
+Eles operam em dados específicos de uma instância e têm acesso direto aos atributos daquela instância.
+Para usar um método de instância, é necessário primeiro criar uma instância da classe.
+Eles são úteis para manipular o estado interno de objetos específicos e implementar comportamentos que variam entre instâncias.
+Métodos Estáticos:
+
+Estes métodos estão associados à classe em si, em vez de instâncias individuais.
+Eles são definidos usando a palavra-chave static e podem ser chamados diretamente através do nome da classe, sem a necessidade de criar uma instância.
+Métodos estáticos não têm acesso aos atributos específicos de instância e operam de forma independente do estado dos objetos.
+São úteis para implementar funcionalidades que não dependem do estado de instâncias individuais, mas sim de operações que são comuns a todas as instâncias ou são independentes do estado do objeto.
+Em suma, os métodos de instância trabalham com dados específicos de instância e são vinculados ao estado dos objetos, enquanto os métodos estáticos operam de forma independente do estado dos objetos e são associados à classe em si. A escolha entre métodos estáticos e de instância depende da natureza da funcionalidade que está sendo implementada e da relação com o estado dos objetos.
