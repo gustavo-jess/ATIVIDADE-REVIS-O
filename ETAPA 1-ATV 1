@@ -1,0 +1,11 @@
+A orientação a objetos é um estilo de programação que organiza software em objetos, representando entidades do mundo real. Esses objetos são instâncias de classes, que definem estrutura e comportamento.
+
+Os princípios-chave da orientação a objetos são:
+
+Abstração: Consiste em focar nos aspectos importantes de um objeto, enquanto esconde os detalhes menos relevantes. Isso é alcançado através de interfaces claras que descrevem o comportamento do objeto.
+
+Encapsulamento: Envolve ocultar os detalhes internos de um objeto e fornecer uma interface pública para interação. Isso promove a modularidade e facilita a manutenção do código.
+
+Herança: Permite que uma classe (subclasse) herde atributos e métodos de outra classe (superclasse). Isso facilita a reutilização de código e a organização em hierarquias de classes.
+
+Polimorfismo: Permite que objetos de diferentes classes sejam tratados de maneira uniforme, com métodos com o mesmo nome se comportando de maneiras distintas em classes diferentes. Isso aumenta a flexibilidade e a extensibilidade do código.
